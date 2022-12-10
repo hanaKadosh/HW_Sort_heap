@@ -1,5 +1,6 @@
-class S{
+class SortHeap{
 //heap Sort
+//hana kadosh
 	//Running complexity time -log(n), 
 	//heap sort is the most efficient sort, more efficient than quick sort double 2 
 	//The sorting principle is to search for the minimum element and insert it into the array in each interaction
