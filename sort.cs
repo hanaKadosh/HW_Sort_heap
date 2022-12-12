@@ -56,7 +56,7 @@ class SortHeap{
         } 
     } 
     public static void main(String[] args) {
-		Heap h = new Heap();
+		SortHeap h = new SortHeap();
         int arr[] = { 1, 12, 9 , 3, 10, 15 };
 		    h.heapSort(arr);
 		    h.display(arr);
